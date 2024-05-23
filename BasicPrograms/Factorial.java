@@ -1,3 +1,4 @@
+//Factorial
 package factorial;
 import java.util.Scanner;
 
