@@ -1,3 +1,4 @@
+//prime number
 package primenumber;
 import java.util.Scanner;
 public class PrimeNumber {
