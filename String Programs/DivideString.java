@@ -1,3 +1,4 @@
+//divide string
 package dividestring;
 import java.util.Scanner;
 public class DivideString {
