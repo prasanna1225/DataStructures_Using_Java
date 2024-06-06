@@ -1,7 +1,7 @@
-package rotatingarray;
+package leftrotatingarray;
 import java.util.Scanner;
 
-public class RotatingArray {
+public class LeftRotatingArray {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
