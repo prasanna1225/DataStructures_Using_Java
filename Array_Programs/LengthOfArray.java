@@ -1,7 +1,7 @@
-package rotatingarray;
+package lengthofarray;
 import java.util.Scanner;
 
-public class RotatingArray {
+public class LengthOfArray {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
