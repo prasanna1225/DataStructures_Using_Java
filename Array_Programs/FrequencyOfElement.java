@@ -1,7 +1,7 @@
-package rotatingarray;
+package frequencyofelement;
 import java.util.Scanner;
 
-public class RotatingArray {
+public class FrequencyOfElement {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
